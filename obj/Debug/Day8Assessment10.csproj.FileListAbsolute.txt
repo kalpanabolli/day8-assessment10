@@ -1,0 +1,8 @@
+D:\Simply Learn\Day8\Day8Assessment10\Day8Assessment10\bin\Debug\Day8Assessment10.exe.config
+D:\Simply Learn\Day8\Day8Assessment10\Day8Assessment10\bin\Debug\Day8Assessment10.exe
+D:\Simply Learn\Day8\Day8Assessment10\Day8Assessment10\bin\Debug\Day8Assessment10.pdb
+D:\Simply Learn\Day8\Day8Assessment10\Day8Assessment10\obj\Debug\Day8Assessment10.csproj.AssemblyReference.cache
+D:\Simply Learn\Day8\Day8Assessment10\Day8Assessment10\obj\Debug\Day8Assessment10.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\Day8\Day8Assessment10\Day8Assessment10\obj\Debug\Day8Assessment10.csproj.CoreCompileInputs.cache
+D:\Simply Learn\Day8\Day8Assessment10\Day8Assessment10\obj\Debug\Day8Assessment10.exe
+D:\Simply Learn\Day8\Day8Assessment10\Day8Assessment10\obj\Debug\Day8Assessment10.pdb
